@@ -22,8 +22,4 @@ The code provides the technical and scientific backbone.
 
 Klaudio Peqini
 
-Department of Physics
-
-Faculty of Natural Sciences
-
-University of Tirana
+Department of Physics, Faculty of Natural Sciences, University of Tirana
