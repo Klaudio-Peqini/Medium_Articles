@@ -19,6 +19,8 @@ The code provides the technical and scientific backbone.
   
   `01_Time_Series_Physics/` - First article in the series setting the fundamentals of time series analysis and understanding
   `02_Noise_and_Stochasticity/` - Second article in the series dealing with stochastic data
+  `03_Models_and_States/`
+  `04_Scaling_and_Dimensionality/`
 - `utils/` – Shared utilities across articles
 
 ## Copyright
