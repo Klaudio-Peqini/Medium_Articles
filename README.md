@@ -18,10 +18,15 @@ The code provides the technical and scientific backbone.
 - `Thinking_Like_a_Physicist/` – Main article series (read respective README.md for more clarity)
   
   `01_Time_Series_Physics/` - First article in the series setting the fundamentals of time series analysis and understanding
+
   `02_Noise_and_Stochasticity/` - Second article in the series dealing with stochastic data
+  
   `03_Models_and_States/` - Third article in the series analyzing models and states of a system
+  
   `04_Scaling_and_Dimensionality/` - Fourth article in the series analyzing the scaling properties of given data and models
-  `05_Spatial_Data_and_Fields/`
+
+  `05_Spatial_Data_and_Fields/` - Fifth article in the series discussing spatial data and typical features
+
   `06_Predictability_and_Chaos/`
 - `utils/` – Shared utilities across articles
 
