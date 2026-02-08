@@ -21,6 +21,8 @@ The code provides the technical and scientific backbone.
   `02_Noise_and_Stochasticity/` - Second article in the series dealing with stochastic data
   `03_Models_and_States/`
   `04_Scaling_and_Dimensionality/`
+  `05_Spatial_Data_and_Fields/`
+  `06_Predictability_and_Chaos/`
 - `utils/` – Shared utilities across articles
 
 ## Copyright
