@@ -121,6 +121,13 @@ This repository is designed to grow. Possible future additions include:
 ## Author
 
 Klaudio Peqini
+
 Department of Physics
+
 Faculty of Natural Sciences
+
 University of Tirana
+
+## License
+
+Unless otherwise specified, all code in this repository is released under the MIT License.
