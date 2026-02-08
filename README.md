@@ -27,7 +27,8 @@ The code provides the technical and scientific backbone.
 
   `05_Spatial_Data_and_Fields/` - Fifth article in the series discussing spatial data and typical features
 
-  `06_Predictability_and_Chaos/`
+  `06_Predictability_and_Chaos/` - Sixth article in the series analyzing chaotic systems and the limits they pose to predictability
+  
 - `utils/` – Shared utilities across articles
 
 ## Copyright
