@@ -17,3 +17,10 @@ The code provides the technical and scientific backbone.
 
 - `Thinking_Like_a_Physicist/` – Main article series
 - `utils/` – Shared utilities across articles
+
+## Copyright
+
+Klaudio Peqini
+Department of Physics
+Faculty of Natural Sciences
+University of Tirana
