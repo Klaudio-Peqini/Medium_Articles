@@ -15,7 +15,8 @@ The code provides the technical and scientific backbone.
 
 ## Structure
 
-- `Thinking_Like_a_Physicist/` – Main article series //
+- `Thinking_Like_a_Physicist/` – Main article series
+  
 . `01_Time_Series_Physics/` - First article in the series setting the fundamentals of time series analysis and understanding
 . `02_Noise_and_Stochasticity/` - Second article in the series dealing with stochastic data
 - `utils/` – Shared utilities across articles
