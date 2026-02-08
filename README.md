@@ -63,7 +63,7 @@ Medium_Articles/
 └── utils/
 ```
 
-##Article Series Overview
+## Article Series Overview
 
 Thinking Like a Physicist in the Age of Data. Each numbered folder corresponds to one article in the series.
 
@@ -120,7 +120,7 @@ This repository is designed to grow. Possible future additions include:
 
 ## Author
 
-##Klaudio Peqini
+## Klaudio Peqini
 
 Department of Physics
 
