@@ -120,7 +120,7 @@ This repository is designed to grow. Possible future additions include:
 
 ## Author
 
-#Klaudio Peqini
+##Klaudio Peqini
 
 Department of Physics
 
