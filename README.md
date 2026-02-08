@@ -61,92 +61,64 @@ Medium_Articles/
 │       ├── 05_Spatial_Data_and_Fields/
 │       └── 06_Predictability_and_Chaos/
 └── utils/
+```
 
-Article Series Overview
-Thinking Like a Physicist in the Age of Data
+##Article Series Overview
 
-Each numbered folder corresponds to one article in the series.
-
-01 — Time Series Physics
+Thinking Like a Physicist in the Age of Data. Each numbered folder corresponds to one article in the series.
 
 01_Time_Series_Physics/
 Introduces a physicist’s view of time series as projections of underlying dynamical systems, emphasizing states, memory, noise, and predictability horizons.
 
-02 — Noise and Stochasticity
-
 02_Noise_and_Stochasticity/
 Explores noise as an intrinsic component of many systems rather than a mere measurement defect, highlighting ensemble behavior and stochastic dynamics.
-
-03 — Models and States
 
 03_Models_and_States/
 Clarifies what physicists mean by a model, distinguishing structural assumptions from curve fitting, and examining hidden states and closure problems.
 
-04 — Scaling and Dimensionality
-
 04_Scaling_and_Dimensionality/
 Shows how dimensional analysis and scaling laws compress information, reveal invariance, and explain why many systems exhibit effective low dimensionality.
-
-05 — Spatial Data and Fields
 
 05_Spatial_Data_and_Fields/
 Reframes spatial data as realizations of structured fields with geometry and correlations, emphasizing resolution, discretization, and correlation length.
 
-06 — Predictability and Chaos
-
 06_Predictability_and_Chaos/
 Concludes the series by examining chaos, sensitivity to initial conditions, and the physical limits of prediction, advocating honest uncertainty-aware forecasting.
 
-Utilities
-
 utils/
+Shared helper functions and plotting utilities used across multiple articles. This avoids code duplication and ensures stylistic and conceptual consistency throughout the project.
 
-Shared helper functions and plotting utilities used across multiple articles.
-This avoids code duplication and ensures stylistic and conceptual consistency throughout the project.
-
-Intended Audience
+## Intended Audience
 
 This repository is intended for:
 
-Physicists working with data
-
-Data scientists seeking deeper conceptual grounding
-
-Machine learning practitioners interested in scientific modeling
-
-Advanced undergraduate and graduate students
-
-Educators designing physics- or data-oriented courses
+- Physicists working with data
+- Data scientists seeking deeper conceptual grounding
+- Machine learning practitioners interested in scientific modeling
+- Advanced undergraduate and graduate students
+- Educators designing physics- or data-oriented courses
 
 No prior expertise in machine learning is assumed beyond basic familiarity with numerical computation.
 
-Reproducibility and Design Choices
+## Reproducibility and Design Choices
 
-Dependencies are kept minimal and consistent across articles
+- Dependencies are kept minimal and consistent across articles.
+- Examples favor synthetic or semi-analytic systems.
+- Code prioritizes clarity over performance.
+- Notebooks are narrative and explanatory.
+- The emphasis is on understanding before optimization.
 
-Examples favor synthetic or semi-analytic systems
-
-Code prioritizes clarity over performance
-
-Notebooks are narrative and explanatory
-
-The emphasis is on understanding before optimization.
-
-Future Extensions
+## Future Extensions
 
 This repository is designed to grow. Possible future additions include:
 
-Additional article series
+- Additional article series
+- Teaching-oriented bundles
+- Extended notebooks and exercises
+- Cross-links to lectures or courses
+- Translations and adaptations for educational use
 
-Teaching-oriented bundles
-
-Extended notebooks and exercises
-
-Cross-links to lectures or courses
-
-Translations and adaptations for educational use
-
-Author
+## Author
 
 Klaudio Peqini
 Department of Physics
