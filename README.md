@@ -124,7 +124,7 @@ This repository is designed to grow. Possible future additions include:
 
 Department of Physics\
 Faculty of Natural Sciences\
-University of Tirana\
+University of Tirana
 
 ## License
 
