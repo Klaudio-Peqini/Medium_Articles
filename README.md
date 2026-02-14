@@ -67,25 +67,25 @@ Medium_Articles/
 
 Thinking Like a Physicist in the Age of Data. Each numbered folder corresponds to one article in the series.
 
-01_Time_Series_Physics/
+- 01_Time_Series_Physics/
 Introduces a physicist’s view of time series as projections of underlying dynamical systems, emphasizing states, memory, noise, and predictability horizons.
 
-02_Noise_and_Stochasticity/
+- 02_Noise_and_Stochasticity/
 Explores noise as an intrinsic component of many systems rather than a mere measurement defect, highlighting ensemble behavior and stochastic dynamics.
 
-03_Models_and_States/
+- 03_Models_and_States/
 Clarifies what physicists mean by a model, distinguishing structural assumptions from curve fitting, and examining hidden states and closure problems.
 
-04_Scaling_and_Dimensionality/
+- 04_Scaling_and_Dimensionality/
 Shows how dimensional analysis and scaling laws compress information, reveal invariance, and explain why many systems exhibit effective low dimensionality.
 
-05_Spatial_Data_and_Fields/
+- 05_Spatial_Data_and_Fields/
 Reframes spatial data as realizations of structured fields with geometry and correlations, emphasizing resolution, discretization, and correlation length.
 
-06_Predictability_and_Chaos/
+- 06_Predictability_and_Chaos/
 Concludes the series by examining chaos, sensitivity to initial conditions, and the physical limits of prediction, advocating honest uncertainty-aware forecasting.
 
-utils/
+- utils/
 Shared helper functions and plotting utilities used across multiple articles. This avoids code duplication and ensures stylistic and conceptual consistency throughout the project.
 
 ## Intended Audience
