@@ -122,11 +122,9 @@ This repository is designed to grow. Possible future additions include:
 
 **Klaudio Peqini**
 
-Department of Physics
-
-Faculty of Natural Sciences
-
-University of Tirana
+Department of Physics\
+Faculty of Natural Sciences\
+University of Tirana\
 
 ## License
 
